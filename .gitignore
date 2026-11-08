@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Panda3D / Ursina Engine cache
+*.p3d
+*.egg
+*.bam
+
+# OS specific
+.DS_Store
+Thumbs.db
