@@ -1,6 +1,6 @@
 # Autonomous Spatial Vector Projectile Simulation
 
-A first-person 3D survival simulator developed in Python using the Ursina Engine. The system demonstrates real-time agent pathfinding, projectile physics, state management, and dynamic difficulty scaling within a confined spatial environment.
+The system demonstrates real-time agent pathfinding, projectile physics, state management, and dynamic difficulty scaling within a confined spatial environment.
 
 ---
 
